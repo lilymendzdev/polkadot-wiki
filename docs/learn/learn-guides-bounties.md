@@ -75,6 +75,8 @@ can be used to submit all the information needed by OpenGov voters to make an in
 Submitting a bounty proposal will require a
 [deposit](../general/chain-state-values.md#bounty-deposit).
 
+You can find information about the active bounties on Polkadot [here](https://dotbountieshub.online/).
+
 ## Assign a Curator to a Bounty
 
 :::info Step-by-step written tutorial
